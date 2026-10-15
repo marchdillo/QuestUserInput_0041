@@ -31,6 +31,8 @@ fun FormDataDiri(modifier: Modifier){
     Column(modifier = modifier.padding(top = 50.dp),
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.CenterHorizontally) {
+        OutlinedTextField(
 
+        )
     }
 }
